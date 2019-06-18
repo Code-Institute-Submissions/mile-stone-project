@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+
+body {
+    background-color: #fada5e;
+}
+
+
+/*----------------------------------header------------*/
+
+.title {
+    text-align: center;
+    background-color: #fada5e;
+    padding: 18px;
+    letter-spacing: 20px;
+    margin: auto 0;
+    font-size: 100px;
+    max-width: 100%;
+    font-family: 'Rock Salt', cursive;
+
+}
+
+
+
+/*-------------------------------photos-------------*/
+
+.photos {
+    background-color: #2e5090;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 3px;
+    max-width: 100%;
+    font-family: 'Rock Salt', cursive;
+
+}
+
+.photos i,
+.photos span {
+    color: #fafafa;
+}
+
+
+/*----------------------------------------VIDEOS-------------*/
+
+.videos {
+    background-color: #ff8243;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 3px;
+    max-width: 100%;
+    font-family: 'Rock Salt', cursive;
+}
+
+.videos i,
+.videos span {
+    color: #fafafa;
+}
+
+/*------------------------Music-------------*/
+
+.music {
+    background-color: #b3f16b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 3px;
+    max-width: 100%;
+    font-family: 'Rock Salt', cursive;
+}
+
+.music i,
+.music span {
+    color: #fafafa;
+}
+
+
+/*--------------------------------contact----------------------*/
+
+.contact {
+    background-color: #b3000c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 3px;
+    max-width: 100%;
+    font-family: 'Rock Salt', cursive;
+}
+
+.contact i,
+.contact span {
+    color: #fafafa;
+}
+
+/*---------------------------------------------Section-----------------------*/
+
+
+/*--------------------------------footer-details-------------------*/
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+}
+
+.footer-details {
+    background-color: #fada5e;
+    font-family: 'Rock Salt', cursive;
+    font-size: 8px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+#footer {
+    font-size: 10px;
+    font-weight: bolder;
+
+}
