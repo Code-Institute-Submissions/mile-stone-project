@@ -153,6 +153,7 @@ body {
     font-family: 'Rock Salt', cursive;
     text-align: center;
     
+    
 }
 
 
@@ -206,18 +207,41 @@ body {
 
 
 
-/*--------------------------------------------------------------------------*/
+/*-------------------------------------Content-------------------------------------*/
+
 
 .content {
     font-family: 'Rock Salt', cursive;
     text-align: center;
-    
+    padding-top: 30px;
 }
 
 .content img {
     text-align: center;
     
 }
+
+
+.contact-page {
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.content-contact {
+     font-family: 'Rock Salt', cursive;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    width: 500px;
+    margin: auto;
+    padding: 0;
+}
+
+/*--------------------------------------------------Albums---------------------*/
 
 .records {
     font-family: 'Rock Salt', cursive;
@@ -227,8 +251,20 @@ body {
     margin-bottom: 45px;
     margin-right: 20px;
     color: black;
-    
    
+    
+}
+
+
+.band {
+    font-family: 'Rock Salt', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 45px;
+    margin-right: 20px;
+    color: black;
+    
 }
 
 
@@ -263,10 +299,15 @@ footer {
 
 
 
-@media (min-width: 240px){
-    {
-        margin: 0 auto;
-        max-width: 100%;
-        min-height: 240px;
-    }
+
+
+
+/*---------------------------------------------Contact - page --------------*/
+
+.contact-page {
+    text-align: center;
+    max-width: 50%;
+    margin: 0;
+    padding: 0;
+    
 }

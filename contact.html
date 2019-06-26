@@ -19,7 +19,7 @@
 
 
 
-    <title>The Monkees</title>
+    <title>The Monkees - Contact</title>
 </head>
 
 
@@ -37,19 +37,19 @@
             <div class="row menu">
                 <!----------------------------------------class= px-0 set padding to 0------------------------------->
                 <div class="col-sm-3 px-0">
-                    <a href="#" class="photos"><i class="fas fa-camera-retro" aria-hidden="true"></i><br><span>Photos</span></a>
+                    <a href="photos.html" class="photos" target="_blank"><i class="fas fa-camera-retro" aria-hidden="true"></i><br><span>Photos</span></a>
                 </div>
 
                 <div class="col-sm-3 px-0">
-                    <a href="#" class="videos"><i class="fas fa-video" aria-hidden="true"></i><br><span>Video-clip</span></a>
+                    <a href="video-clip.html" class="videos" target="_blank"><i class="fas fa-video" aria-hidden="true"></i><br><span>Video-clip</span></a>
                 </div>
 
                 <div class="col-sm-3 px-0">
-                    <a href="#" class="music"><i class="fas fa-music" aria-hidden="true"></i><br><span>Music</span></a>
+                    <a href="music.html" class="music" target="_blank"><i class="fas fa-music" aria-hidden="true"></i><br><span>Music</span></a>
                 </div>
 
                 <div class="col-sm-3 px-0">
-                    <a href="#" class="contact"><i class="fas fa-envelope" aria-hidden="true"></i><br><span>Contact Us</span></a>
+                    <a href="contact.html" class="contact" target="_blank"><i class="fas fa-envelope" aria-hidden="true"></i><br><span>Contact Us</span></a>
                 </div>
 
 
@@ -60,7 +60,7 @@
     </header>
 
 
-    <section class="container-fluid">
+  <section class="container-fluid">
         <div class="container-fluid">
 
             <!--------------------------------------<div class="w-100"></div>----force column breakdown bootstrap4.-------------------->
@@ -92,11 +92,32 @@
 
                 <!-------------------------------------------------------------------------------------------------->
 
-                <div class="col-md-9 content">
+                <div class="col-md-9 content-contact">
+                    
+                    <h3 class="content-contact">Phone: 555-5555</h3>
+                    <h3 class="content-contact">Fax: 555-5556</h3>
+                    
+                    
+                    
+                
+                    
+                    <form>
+                            <input type="text" name="name" id="full-name" class="contact-page" placeholder="full-name" required />
 
+                            <input type="email" name="email" id="emailaddress" class="contact-page" placeholder="Email" required />
 
-                  
+                            <!-----------------------------form-control class its bootstrap4 -------------------------------->
+                            <textarea rows="8" type="contact-page" name="contact-page" id="contact-page" class="form-control" placeholder="text-area" required /></textarea>
 
+                            <!---------------creating a button--------------->
+                            <div class="button">
+                                <div class="col">
+                                    <button type="submit" class="button">Submit</button>
+                                </div>
+                            </div>
+                    </form>
+                    
+                   
 
 
                 </div>
