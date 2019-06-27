@@ -7,6 +7,12 @@ body {
 }
 
 
+.first-page {
+    background-color: #fada5e;
+    text-align: center;
+    margin-top: 100px;
+}
+
 
 /*----------------------------------header------------*/
 
@@ -269,7 +275,9 @@ body {
 
 
 
-
+.text {
+    text-align: justify;
+}
 
 
 
