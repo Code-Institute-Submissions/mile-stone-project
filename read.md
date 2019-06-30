@@ -29,10 +29,20 @@ Testing
 
 As you can test everthing works agreed with we have learned until now, so you won't be able to really send the email or phone the contact
 beacuse it is a project to learne and show what we have learned until now in our course (basic fornt end missing javascrip).
+As you can notice the web is full responsive made with bootstrap4 and media-query.
+
+Deployment
+
+to view this project you can get the codes in my git-hub space: 
+
+https://github.com/marcuscolle/mile-stone-project
+
+or you can see it in my awscloud9:
 
 
 
+Credits
 
-"Referencia"
+I have picked up the main-page content on: https://www.8notes.com/biographies/monkees.asp
 
-https://www.8notes.com/biographies/monkees.asp
+All the pics / videos / music were provided by code institue to make this project run.
