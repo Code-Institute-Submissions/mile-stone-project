@@ -9,17 +9,24 @@ as youtube, facebook and intagram where they can give their live feedback to ban
 
 ### Ux
 
-This web site is fully-responsive, suitble to all devices and have its colors based on 60's, 
+This web site was first designed using a webframe as you can see it in my workframe file. 
+It is fully-responsive, suitble to all devices and have its colors based on 60's, 
 as you notice this colors where based on video-clip.
 To the fans i'm providing informations as: live update, tour update, albums, photos, video clip, muiscs and contact us,
-Also i have providade future links to social media webs, i used rock salt font to give a rock style to fonts.
+Also i have provided future links to social media webs, i used rock salt font to give a rock style to fonts.
 I have creataed something simple and easy to use and understand.
+
+As a fan of The Monkees i want to listen music so that i can go to the website and listen every The Monkees muisc.
+Same thing will happen when as a user i want to watch videos and see photos, so that i can go to the website and find all i want to.
+As a music lover I want to contact them to play in my party, so that i would go in the web site and use to contact them for my party. 
 
  
  
 ### Technologies Used
 
 To build this project i have used 
+
+-BALSAMIC
 
 -HTML
 
@@ -58,16 +65,16 @@ facebook, instagram or youtube web-pages and will be added Albums flicking over 
 The Monkees website was created to give their fans more informations and interaction with them.
 When they get in the first page it will able to read a short description of the band,
 information about that social media is coming soon, and that they can be contacted to play in partys, proms and weddings as well, it 
-was provided a photo of the band under them to show people they are in the right website and this is The Monkees rock band.
+was provided with a photo of the band under them to show people they are in the right website and this is The Monkees rock band.
 They can find in the footer of the page live updates from tours and shows, but, will be able to desktop and tablets versions due to 
 make the site more responsive. On the left hand side they can see the future links to social media displayed as icons from facebook,
-instagram and youtube. On the right hand side you can find Albumns that is not a link where the idea is to flick them over, that will
+instagram and youtube. On the right hand side you can find Albums that is not a link where the idea is to flick them over, that will
 be implemented in the future as the developer is using only what he got as assets. On top of they can see the navbar where they can 
 accsess Photos, Videos, Musics and Contact the band. The Monkees link on the title it's also a link to go back to main(first-page) whem 
 they go in another part of the site as photos for exemple.
 
 By clicking on navbar Photos the user can have accsess to all selected range of The Monkees photos, if they want to see their videos then they should
-click on navbar video-clip to open all videos provided, videos were iframed from youtube due a problem when loaded from assets. When the user wants to listen
+click on navbar video-clip to open all videos provided with videos were iframed from youtube due a problem when loaded from assets. When the user wants to listen
 some The Monkees music they can click on navbar music and there will be all The Monkees music. To contact the band for concerts, weddings, proms, partys the
 user should click on navbar Contac Us and will be displayed phone number, old style not much used in these days fax number and a place to email them with 
 full-name, e-mail and text-area where all campus are required.
