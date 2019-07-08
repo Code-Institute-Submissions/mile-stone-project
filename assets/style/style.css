@@ -331,31 +331,38 @@ footer {
 
 /*---------------------------------------------Contact - page --------------*/
 
+#contact-page {
+    margin-top: 8px;
+}
+
 .contact-page {
     text-align: center;
     max-width: 50%;
-    margin: 0;
-    padding: 0;
+    margin: 8px;
+    padding: 8px;
 
 }
 
+.button {
+    margin-top: 5px;
+}
 
 /*-------------------------------------@media-------------------------------*/
 
 @media (max-width: 762px) {
-   
+
     .social-media {
         display: inherit;
         letter-spacing: 3.5em;
-        
+
     }
-   
+
     .youtube,
     .instagram,
     .facebook {
         margin-top: 15px;
         margin-bottom: 15px;
-       
+
 
     }
 
@@ -363,12 +370,12 @@ footer {
         padding: 0;
 
     }
-    
+
     .col-sm-4 {
         text-align: center;
         max-width: 100%;
         letter-spacing: normal;
-        
+
     }
 
 
@@ -383,7 +390,6 @@ footer {
         
 ----------------*/
 
-
 @media (max-width: 767px) {
     .records {
         display: none;
@@ -396,6 +402,14 @@ footer {
         width: 100%;
         height: auto;
     }
+
+    .contact-page {
+        text-align: center;
+        max-width: 100%;
+        margin: 8px;
+        padding: 8px;
+    }
+
 }
 
 
@@ -419,4 +433,3 @@ footer {
         height: 320px;
     }
 }
-
